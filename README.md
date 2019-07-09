@@ -1,2 +1,5 @@
 # DEF.EntityFrameworkCore.Kafka
-Entity Framework Core Data Provider For Confluent's .NET Client for Apache Kafka
+
+
+`DEF.EntityFrameworkCore.Kafka` is an Entity Framework Core provider built on top of [Confluent's .NET Client for Apache Kafka<sup>TM</sup>](https://github.com/confluentinc/confluent-kafka-dotnet) that enables the use of the Entity Framework Core ORM with Kafka.
+
